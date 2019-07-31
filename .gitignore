@@ -1,0 +1,11 @@
+/.idea
+*.test
+/plots
+/target
+/lib
+/out
+
+# google trace files
+/job_events
+/task_events
+/schema.csv
